@@ -1,0 +1,17 @@
+{
+  "name": "visitor.js",
+  "version": "1.0.0",
+  "description": "A script for helping publishers get information about their visitors behaviours on their site or app",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hising/visitor.js.git"
+  },
+  "author": "Mattias Hising",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hising/visitor.js/issues"
+  },
+  "homepage": "https://github.com/hising/visitor.js#readme"
+}
